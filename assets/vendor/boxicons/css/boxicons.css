@@ -5022,4 +5022,6 @@
   .bxl-zoom:before {
     content: "\eedb";
   }
-  
+  .bxl-xxx:before {
+    content: "\eedc";
+  }
